@@ -1,0 +1,16 @@
+≈∑ œæ‡¿Î£∫
+k=1£∫
+the total number of error is: 13
+the total error rate is: 0.013742
+
+k=2£∫
+the total number of error is: 13
+the total error rate is: 0.013742
+
+k=3£∫
+the total number of error is: 10
+the total error rate is: 0.010571
+
+k=4£∫
+the total number of error is: 11
+the total error rate is: 0.011628
